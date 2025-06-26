@@ -4,14 +4,14 @@ This is a CLI tool designed to help you download any Wattpad story into an EPUB 
 
 New Wattpad story format? What's that you ask? I'm not really sure when it started, but Wattpad updated the HTML structure of their stories, converting class tags into random nonsense (this is due to minimizing), rendering other tools unusable. This tool uses the new format, so it should work with any story on Wattpad.
 
+## Requirements
+- Python 3.12
+- pip
+
 ## Installation
 ```bash
 pip install wattpad-scraper
 ```
-
-## Requirements
-- Python 3.12
-- pip
 
 ## Usage
 ```bash

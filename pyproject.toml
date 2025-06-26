@@ -1,6 +1,6 @@
 [project]
 name = "wattpad-scraper"
-version = "1.0.2"
+version = "1.0.0"
 description = "Automagically download any Wattpad book as an EPUB file. (new Wattpad update supported)"
 readme = "README.md"
 authors = [
