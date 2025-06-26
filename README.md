@@ -23,7 +23,7 @@ The file will be saved to <current directory>/output/book.epub.
 The function docs were written by tabbing on Copilot suggestions so expect them to be... weird. Some other comments were also written by Copilot, so they may have a weird tone. You can clearly see the difference between my comments and Copilot's comments. But the code works, and that's what matters, and who cares about comments anyway? 
 
 ## Legal Notice
-This tool is for educational purposes only. Please respect Wattpad's terms of service and copyright laws.
+This tool is for educational purposes only. Please respect Wattpad's terms of service and copyright laws!
 
 ## License
 MIT License
