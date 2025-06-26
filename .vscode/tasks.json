@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Install wattpad-scraper CLI in editable mode",
+			"command": "pip install -e .",
+			"group": "build",
+			"isBackground": false
+		}
+	]
+}
